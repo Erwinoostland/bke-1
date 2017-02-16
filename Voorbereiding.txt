@@ -1,0 +1,29 @@
+SPELER
+    1.  URL intikken en pagina laden
+        Wat moet mijn programma doen?
+        a) Button klikbaar maken            V
+        b) Scores resetten                  V
+        c) Beurt bepalen                    V
+        d) Speelveld leegmaken              V
+
+    2.  Speler klikt op de button met de tekst 'Start spel'
+        Wat moet mijn programma doen?
+        a) Tekst op de button veranderen in 'Reset spel'
+        b) Speelveld (cellen) klikbaar maken
+        c) Ronde verhogen en tonen (vergeten in de les)
+
+==>>3.  Speler klikt op een cel in het speelveld
+        Wat moet mijn programma doen?
+        a) Controleren of de cel leeg is (1e probleem)
+            JA ->   i) Plaatje van de huidige speler in de cel plaatsen (2e probleem)
+                    ii) Checken of iemand gewonnen heeft (3e probleem)
+                        JA ->   Spel stoppen, scores bijwerken en tonen, knop bijwerken
+                        NEE ->  Beide behandelen we elders
+                    iii) Beurt overgeven aan de andere speler en tonen (4e probleem)
+            NEE ->  DOE NIKS
+
+        b) .....
+
+    4.  ......
+
+
